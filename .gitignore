@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Test artifacts
+.pytest_cache/
+.coverage
+
+# Secrets / local files
+.env

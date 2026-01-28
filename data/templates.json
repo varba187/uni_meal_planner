@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Oats + Banana + Peanut Butter",
+    "purposes": ["breakfast"],
+    "items": [
+      { "name": "Oats (dry)", "role": "carb", "grams": 80 },
+      { "name": "Banana", "role": "fruit", "grams": 120 },
+      { "name": "Peanut butter", "role": "fat", "grams": 20 }
+    ]
+  },
+  {
+    "name": "Eggs + Bread + Orange",
+    "purposes": ["breakfast"],
+    "items": [
+      { "name": "Eggs (whole)", "role": "protein", "grams": 120 },
+      { "name": "Bread (white)", "role": "carb", "grams": 80 },
+      { "name": "Orange", "role": "fruit", "grams": 150 }
+    ]
+  },
+  {
+    "name": "Greek Yogurt + Banana + Honey",
+    "purposes": ["breakfast", "snack"],
+    "items": [
+      { "name": "Greek yogurt (lactose-free)", "role": "protein", "grams": 170 },
+      { "name": "Banana", "role": "fruit", "grams": 120 },
+      { "name": "Honey", "role": "carb", "grams": 15 }
+    ]
+  },
+  {
+    "name": "Rice + Chicken + Olive Oil",
+    "purposes": ["lunch", "dinner", "post-workout"],
+    "items": [
+      { "name": "White rice (cooked)", "role": "carb", "grams": 200 },
+      { "name": "Chicken breast (grilled)", "role": "protein", "grams": 150 },
+      { "name": "Olive oil", "role": "fat", "grams": 10 }
+    ]
+  },
+  {
+    "name": "Pasta + Chicken",
+    "purposes": ["lunch", "dinner"],
+    "items": [
+      { "name": "Pasta (cooked)", "role": "carb", "grams": 220 },
+      { "name": "Chicken breast (grilled)", "role": "protein", "grams": 150 }
+    ]
+  },
+  {
+    "name": "Rice + Salmon + Avocado",
+    "purposes": ["dinner"],
+    "items": [
+      { "name": "White rice (cooked)", "role": "carb", "grams": 200 },
+      { "name": "Salmon", "role": "protein", "grams": 140 },
+      { "name": "Avocado", "role": "fat", "grams": 70 }
+    ]
+  },
+  {
+    "name": "Quinoa + Lentils + Olive Oil",
+    "purposes": ["lunch", "dinner"],
+    "items": [
+      { "name": "Quinoa (cooked)", "role": "carb", "grams": 180 },
+      { "name": "Lentils (cooked)", "role": "protein", "grams": 150 },
+      { "name": "Olive oil", "role": "fat", "grams": 10 }
+    ]
+  },
+  {
+    "name": "Apple + Peanut Butter",
+    "purposes": ["snack"],
+    "items": [
+      { "name": "Apple", "role": "fruit", "grams": 180 },
+      { "name": "Peanut butter", "role": "fat", "grams": 20 }
+    ]
+  },
+  {
+    "name": "Cottage Cheese + Honey",
+    "purposes": ["snack", "post-workout"],
+    "items": [
+      { "name": "Cottage cheese (lactose-free)", "role": "protein", "grams": 180 },
+      { "name": "Honey", "role": "carb", "grams": 15 }
+    ]
+  },
+  {
+    "name": "Banana + Sports Drink",
+    "purposes": ["pre-event"],
+    "items": [
+      { "name": "Banana", "role": "carb", "grams": 120 },
+      { "name": "Sports drink", "role": "drink", "grams": 500 }
+    ]
+  },
+  {
+    "name": "Rice Cakes + Honey",
+    "purposes": ["pre-event"],
+    "items": [
+      { "name": "Rice cakes", "role": "carb", "grams": 40 },
+      { "name": "Honey", "role": "carb", "grams": 15 }
+    ]
+  },
+  {
+    "name": "Protein Shake + Banana",
+    "purposes": ["post-workout"],
+    "items": [
+      { "name": "Protein shake (lactose-free)", "role": "protein", "grams": 400 },
+      { "name": "Banana", "role": "carb", "grams": 120 }
+    ]
+  }
+]
